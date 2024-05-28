@@ -9,13 +9,13 @@ para marcar alguna sección o subsección estos se marcan utilizando el símbolo
 
 Ejemplo:
 
-#Encabezado de Nivel 1
-##Encabezado de Nivel 2
-###Encabezado de Nivel 3
-####Encabezado de Nivel 4
-#####Encabezado de Nivel 5
-######Encabezado de Nivel 6
-#######Encabezado de Nivel 7   ( Sólo considera los primeros 6 nivele)
+# Encabezado de Nivel 1
+## Encabezado de Nivel 2
+### Encabezado de Nivel 3
+#### Encabezado de Nivel 4
+##### Encabezado de Nivel 5
+###### Encabezado de Nivel 6
+####### Encabezado de Nivel 7   ( Sólo considera los primeros 6 nivele)
 
 
 
